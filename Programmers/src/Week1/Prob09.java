@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-    Prob09 : 두 개의 정수 n, m을 입력
+    Week1.Prob09 : 두 개의 정수 n, m을 입력
              가로 길이가 n, 세로 길이가 m인 직사각형 형태로 별(*) 문자 출력
              input ex) 5 3
              output

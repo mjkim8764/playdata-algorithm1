@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-    Prob10 : 평균 구하기
+    Week1.Prob10 : 평균 구하기
     정수를 담고 있는 배열 arr의 평균값 출력
  */
 

@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-  Prob01 : 두 정수 a, b 사이에 속한 정수의 합
+  Week1.Prob01 : 두 정수 a, b 사이에 속한 정수의 합
   ex) a=3, b=5 일 때 12 return
  */
 

@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-    Prob03 : String 배열에서 "Kim"의 위치 x를 찾아,
+    Week1.Prob03 : String 배열에서 "Kim"의 위치 x를 찾아,
             "김서방은 x에 있다" 는 내용을 출력
  */
 

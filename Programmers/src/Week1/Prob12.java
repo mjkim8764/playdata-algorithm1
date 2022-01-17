@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-    Prob12 : 짝수와 홀수
+    Week1.Prob12 : 짝수와 홀수
     정수 num이 짝수일 경우 "Even" 출력, 홀수인 경우 "Odd"를 출력
  */
 

@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-    Prob05 : String s의 'p'의 개수와 'y'의 개수를 비교
+    Week1.Prob05 : String s의 'p'의 개수와 'y'의 개수를 비교
             같으면 True 출력, 다르면 False 출력
             ex1) s가 "pPooyY" : true 출력
             ex2) s가 "Pyy" : false 출력

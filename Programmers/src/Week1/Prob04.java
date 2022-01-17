@@ -1,5 +1,7 @@
+package Week1;
+
 /*
-    Prob04 : n의 약수를 모두 더한 값을 출력
+    Week1.Prob04 : n의 약수를 모두 더한 값을 출력
  */
 
 public class Prob04 {
