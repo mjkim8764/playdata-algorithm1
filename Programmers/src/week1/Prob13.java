@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob13 : 자릿수 더하기

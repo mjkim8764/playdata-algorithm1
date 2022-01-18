@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob08 : x만큼 간격이 있는 n개의 숫자

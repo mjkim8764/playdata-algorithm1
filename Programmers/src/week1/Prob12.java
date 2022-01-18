@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob12 : 짝수와 홀수

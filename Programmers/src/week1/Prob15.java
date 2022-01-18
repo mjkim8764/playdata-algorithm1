@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob15 : 정수 제곱근 판별

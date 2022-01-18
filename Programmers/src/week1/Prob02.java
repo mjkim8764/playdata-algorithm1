@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob02 : 길이가 n이고, "수박수박수..."와 같은 패턴을 유지하는 문자열 출력

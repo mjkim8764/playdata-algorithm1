@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob05 : String s의 'p'의 개수와 'y'의 개수를 비교

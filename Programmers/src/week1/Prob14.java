@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob14 : 최대공약수와 최소공배수

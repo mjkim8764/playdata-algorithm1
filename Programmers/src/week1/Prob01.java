@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
   Week1.Prob01 : 두 정수 a, b 사이에 속한 정수의 합

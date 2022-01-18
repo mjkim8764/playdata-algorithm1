@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob10 : 평균 구하기

@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob03 : String 배열에서 "Kim"의 위치 x를 찾아,

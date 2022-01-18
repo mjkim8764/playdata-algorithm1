@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob09 : 두 개의 정수 n, m을 입력

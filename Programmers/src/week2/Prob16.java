@@ -1,4 +1,4 @@
-package Week2;
+package week2;
 
 /*
     Week2.Prob16 : 문자열 다루기 기본

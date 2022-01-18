@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob07 : 가운데 글자 가져오기

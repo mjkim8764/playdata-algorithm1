@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob06 : 배열 arr가 주어지고 각 원소는 0부터 9까지 이루어져 있음

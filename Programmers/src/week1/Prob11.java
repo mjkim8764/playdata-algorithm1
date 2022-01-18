@@ -1,4 +1,4 @@
-package Week1;
+package week1;
 
 /*
     Week1.Prob11 : 행렬의 덧셈
