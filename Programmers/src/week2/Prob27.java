@@ -1,7 +1,7 @@
 package week2;
 
 /*
-    Week2.Prob26 : 예산
+    Week2.Prob27 : 예산
     url : https://programmers.co.kr/learn/courses/30/lessons/12982
  */
 
