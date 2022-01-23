@@ -1,7 +1,7 @@
 # 📖 algorithm-study
 **Encore Playdata** 에서 소개해 주는 여러 사이트들의 Algorithm 문제들을 직접 풀어본 후 코드를 올리고 있습니다.  
 항상 최적의 속도가 나오진 않지만😞 이렇게도 풀었구나 정도로 봐주시면 감사하겠습니다😜  
-주차가 지나면서 Readme 내용이 주기적으로 변경될 수 있습니다 ❗  
+주차가 지나면서 Readme 내용이 수시로 추가될 수 있습니다 ❗  문제의 상세 내용은 하단의 Link를 확인해주세요  
   
 # 🔖 *Week1*
 + Prob1 : [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
