@@ -3,7 +3,7 @@
 항상 최적의 속도가 나오진 않지만😞 이렇게도 풀었구나 정도로 봐주시면 감사하겠습니다😜  
 주차가 지나면서 Readme 내용이 수시로 추가될 수 있습니다 ❗  문제의 상세 내용은 하단의 Link를 확인해주세요  
   
-# 🔖 *Week1*
+# 🔖 *Week1(22/01/12 ~ 22/01/17)*
 + Prob1 : [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 + Prob2 : [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 + Prob3 : [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
@@ -20,7 +20,7 @@
 + Prob14 : [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
 + Prob15 : [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
 
-# 🔖 *Week2*
+# 🔖 *Week2(22/01/17 ~ 22/01/23)*
 + Prob16 : [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
 + Prob17 : [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
 + Prob18 : [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
